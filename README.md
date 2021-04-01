@@ -1,7 +1,6 @@
+# Star Wars API
 
-
-
-# star-wars
+![Star Wars screen](https://github.com/ayoub-bani/StarwarsAPI/blob/master/screen/MacBook_Pro_screen.png)
 
 ## Project setup
 ```
