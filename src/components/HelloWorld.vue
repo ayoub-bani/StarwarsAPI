@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
-    <p>this is a test</p>
+    <div class="container">
+      <p class="bg-primary text-white">this is a test</p>
+    </div>
   </div>
 </template>
 
