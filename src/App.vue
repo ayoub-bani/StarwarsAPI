@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <HelloWorld id="1" />
-    <HelloWorld id="7" />
+    <HelloWorld />
+
   </div>
 </template>
 
@@ -17,5 +17,7 @@
 </script>
 
 <style>
-
+  body {
+    background-color: black;
+  }
 </style>
